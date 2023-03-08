@@ -5,3 +5,5 @@ This is a modern Face Authentication System which includes state-of-art algorith
 
 ## Project Archietecture
 <img width="844" alt="image" src="https://user-images.githubusercontent.com/57321948/195135349-9888d9ea-af5d-4ee2-8aa4-1e57342add05.png">
+
+

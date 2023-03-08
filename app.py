@@ -8,6 +8,7 @@ from controller.app_controller import application
 from controller.auth_controller import authentication
 from face_auth.constant.application import APP_HOST, APP_PORT
 
+
 app = FastAPI()
 
 @app.get("/")

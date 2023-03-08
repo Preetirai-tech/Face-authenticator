@@ -10,7 +10,6 @@ from face_auth.constant.application import APP_HOST, APP_PORT
 
 app = FastAPI()
 
-
 @app.get("/")
 def read_root():
     return RedirectResponse(url="/auth", status_code=status.HTTP_302_FOUND)
